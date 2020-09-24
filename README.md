@@ -12,4 +12,7 @@ test
 ![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
 下面将显示一个矩阵
-![](http://latex.codecogs.com/gif.latex?\\begin{bmatrix} 1& 2\\ 3& 4\end{bmatrix}})
+![](http://latex.codecogs.com/gif.latex?\\begin{bmatrix}
+1 & 2\\ 
+3 & 4
+\end{bmatrix})
