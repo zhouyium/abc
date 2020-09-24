@@ -21,4 +21,4 @@ test
 ![](https://latex.codecogs.com/png.latex?\dpi{400}\int&space;\frac{1}{x}&space;dx&space;=&space;\ln&space;\left|&space;x&space;\right|&space;+&space;C)
 
 下面将显示一个矩阵
-![](http://latex.codecogs.com/gif.latex?\begin{pmatrix}1&2\\3&4\end{pmatrix}*\begin{pmatrix}x_{1}\\x_{2}\end{pmatrix}=\begin{pmatrix}1\\2\end{pmatrix})
+![](http://latex.codecogs.com/png.latex?\begin{pmatrix}1&2\\3&4\end{pmatrix}*\begin{pmatrix}x_{1}\\x_{2}\end{pmatrix}=\begin{pmatrix}1\\2\end{pmatrix})
